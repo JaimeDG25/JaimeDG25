@@ -1,9 +1,9 @@
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<h1 align="center"><b>Hola! Soy Jhair </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi! I'm Jaime Jhair Davila Garcia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;Acerca de mi
+### 👨🏻‍💻 &nbsp;About me
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" style="margin-left:'20px'"/>
 
@@ -12,14 +12,13 @@
 🌱 &nbsp;In my free time I like to play the guitar and go running.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;You can send me a email at garciajhair22@gmail.com, I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 <br> <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Habilidades</b>
 
-### 🛠 &nbsp;Lenguages de Programacion
+### 🛠 &nbsp;Programming languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -30,7 +29,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
-### 🗃 &nbsp;Desarrollo: Front end
+### 🗃 &nbsp;Development: Front end
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -44,7 +43,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 
-### 🧰 &nbsp;Software y herramientas
+### 🧰 &nbsp;Software y tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -74,16 +73,16 @@
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
 
-### 📜 &nbsp;Mis artículos
+### 📜 &nbsp;My articles
 
 [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
 
-### 💰 &nbsp;Apoya mi trabajo
+### 💰 &nbsp;Support my work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
 
 
-### 🤝🏻 &nbsp;Contacta conmigo
+### 🤝🏻 &nbsp;Contact me
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
